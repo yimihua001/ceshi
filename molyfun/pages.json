@@ -1,0 +1,125 @@
+{
+	"pages": [
+		//     //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages    
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/login/forget",
+			"style": {
+				"navigationBarTitleText": "忘记密码"
+			}
+		},
+		{
+			"path": "pages/login/wxlogin",
+			"style": {
+				"navigationBarTitleText": "微信登录"
+			}
+			
+		},
+		{
+			"path": "pages/course/course",
+			"style": {
+				"navigationBarTitleText": "课程中心"
+			}
+		},
+		{
+			"path": "pages/mycourse/mycourse",
+			"style": {
+				"navigationBarTitleText": "我的课程"
+			}
+		},
+		{
+			"path": "pages/classes/classes",
+			"style": {
+				"navigationBarTitleText": "我的班级"
+			}
+		},{
+			"path": "pages/webim/webim",
+			"style": {
+				"navigationBarTitleText": "消息会话"
+			}
+		},{
+			"path": "pages/center/myhome",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		}
+	],
+	"subPackages": [		
+		{
+			"root": "pages/course",
+			"pages": []
+		},
+		{
+			"root": "pages/mycourse",
+			"pages": []
+		},
+		{
+			"root": "pages/classes",
+			"pages": []
+		},
+		{
+			"root": "pages/webim",
+			"pages": []
+		},
+		// 个人中心分包
+		{
+			"root": "pages/center",
+			"pages": []
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "魔立方",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF",
+		"onReachBottomDistance": 50
+	},
+	"tabBar": {
+		"color": "#444444",
+		// "selectedColor": "#FF80AB",
+		"borderStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/course/course",
+				"iconPath": "static/index-0.png",
+				"selectedIconPath": "static/index-1.png",
+				"text": "课程中心"
+			},
+			{
+				"pagePath": "pages/mycourse/mycourse",
+				"iconPath": "static/index-0.png",
+				"selectedIconPath": "static/index-1.png",
+				"text": "我的课程"
+			},
+			{
+				"pagePath": "pages/classes/classes",
+				"iconPath": "static/index-0.png",
+				"selectedIconPath": "static/index-1.png",
+				"text": "我的班级"
+			},
+			{
+				"pagePath": "pages/webim/webim",
+				"iconPath": "static/index-0.png",
+				"selectedIconPath": "static/index-1.png",
+				"text": "消息会话"
+			},
+			{
+				"pagePath": "pages/center/myhome",
+				"iconPath": "static/index-0.png",
+				"selectedIconPath": "static/index-1.png",
+				"text": "个人中心"
+			}
+		]
+	}
+}

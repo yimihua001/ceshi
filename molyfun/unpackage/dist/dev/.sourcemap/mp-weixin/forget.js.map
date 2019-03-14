@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///D:/molyfun/main.js"],"names":["Page","App"],"mappings":";;;;;;;;;;AAAA;AACA;AACI,kM;AACAA,IAAI,CAAC,+BAAYC,eAAZ,CAAD,CAAJ,C","file":"forget.js","sourcesContent":["import 'uni-pages';\nimport pageFactory from 'mpvue-page-factory'\n    import App from './forget.vue'\n    Page(pageFactory(App))"],"sourceRoot":""}

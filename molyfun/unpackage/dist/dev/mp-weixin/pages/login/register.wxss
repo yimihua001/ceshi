@@ -1,0 +1,60 @@
+.pages .login-top.data-v-01b10581 {
+  width: 100%;
+  position: relative;
+  margin-top: 40rpx;
+}
+.pages .login-top .title.data-v-01b10581 {
+  font-size: 60rpx;
+  color: #333;
+}
+.pages .login-top .tips.data-v-01b10581 {
+  font-size: 20rpx;
+  color: #999;
+}
+.pages .login-box.data-v-01b10581 {
+  position: relative;
+  margin-top: 100rpx;
+}
+.pages .login-box .title.data-v-01b10581 {
+  font-size: 40rpx;
+  color: #333;
+}
+.pages .login-box .uni-form-item.data-v-01b10581 {
+  margin-bottom: 30rpx;
+  position: relative;
+}
+.pages .login-box .uni-form-item .sendcode.data-v-01b10581 {
+  width: 160rpx;
+  height: 70rpx;
+  text-align: center;
+  line-height: 70rpx;
+  position: absolute;
+  right: 0rpx;
+  top: 40rpx;
+  border-radius: 6rpx;
+}
+.pages .login-box .login-btn.data-v-01b10581 {
+  position: relative;
+  margin-top: 100rpx;
+  width: 100%;
+  hieght: 120rpx;
+  line-height: 120rpx;
+  text-align: center;
+  border-radius: 10rpx;
+  font-size: 40rpx;
+}
+.pages .login-box .item-tip.data-v-01b10581 {
+  position: relative;
+  margin-top: 30rpx;
+  text-align: center;
+}
+.pages .login-box .item-tip .tip.data-v-01b10581 {
+  margin: 0 8rpx;
+}
+.pages .login-box .item-tip .tipactive.data-v-01b10581 {
+  margin: 0 8rpx;
+}
+.pages .login-box .item-tip .line.data-v-01b10581 {
+  margin: 0 8rpx;
+}
+

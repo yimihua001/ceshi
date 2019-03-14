@@ -1,0 +1,50 @@
+.pages .login-top.data-v-22e2450a {
+  width: 100%;
+  position: relative;
+  margin-top: changepx(40rpx);
+  margin-top: 40rpx;
+}
+.pages .login-top .title.data-v-22e2450a {
+  font-size: 52rpx;
+  color: #333;
+}
+.pages .login-top .tips.data-v-22e2450a {
+  font-size: 32rpx;
+  color: #999;
+}
+.pages .login-box.data-v-22e2450a {
+  position: relative;
+  margin-top: 100rpx;
+}
+.pages .login-box .title.data-v-22e2450a {
+  font-size: 40rpx;
+  color: #333;
+}
+.pages .login-box .uni-form-item.data-v-22e2450a {
+  margin-bottom: 30rpx;
+}
+.pages .login-box .login-btn.data-v-22e2450a {
+  position: relative;
+  margin-top: 240rpx;
+  width: 100%;
+  hieght: 120rpx;
+  line-height: 120rpx;
+  text-align: center;
+  border-radius: 10rpx;
+  font-size: 40rpx;
+}
+.pages .login-box .item-tip.data-v-22e2450a {
+  position: relative;
+  margin-top: 30rpx;
+  text-align: center;
+}
+.pages .login-box .item-tip .tip.data-v-22e2450a {
+  margin: 0 8rpx;
+}
+.pages .login-box .item-tip .tipactive.data-v-22e2450a {
+  margin: 0 8rpx;
+}
+.pages .login-box .item-tip .line.data-v-22e2450a {
+  margin: 0 8rpx;
+}
+

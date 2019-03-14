@@ -1,0 +1,45 @@
+.pages .login-box.data-v-2ad2bd4b {
+  position: relative;
+  margin-top: 100rpx;
+}
+.pages .login-box .title.data-v-2ad2bd4b {
+  font-size: 40rpx;
+  color: #333;
+}
+.pages .login-box .uni-form-item.data-v-2ad2bd4b {
+  margin-bottom: 30rpx;
+}
+.pages .login-box .uni-form-item .sendcode.data-v-2ad2bd4b {
+  width: 120.77rpx;
+  height: 60.38rpx;
+  text-align: center;
+  position: absolute;
+  right: 0rpx;
+  top: 40rpx;
+  border-radius: 6rpx;
+}
+.pages .login-box .login-btn.data-v-2ad2bd4b {
+  position: relative;
+  margin-top: 240rpx;
+  width: 100%;
+  hieght: 120rpx;
+  line-height: 120rpx;
+  text-align: center;
+  border-radius: 10rpx;
+  font-size: 40rpx;
+}
+.pages .login-box .item-tip.data-v-2ad2bd4b {
+  position: relative;
+  margin-top: 40rpx;
+  text-align: center;
+}
+.pages .login-box .item-tip .tip.data-v-2ad2bd4b {
+  margin: 0 8rpx;
+}
+.pages .login-box .item-tip .tipactive.data-v-2ad2bd4b {
+  margin: 0 8rpx;
+}
+.pages .login-box .item-tip .line.data-v-2ad2bd4b {
+  margin: 0 8rpx;
+}
+
